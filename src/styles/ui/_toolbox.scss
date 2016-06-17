@@ -184,6 +184,8 @@
         &--redo:before           { content: "\e966"; }
         &--remove:before         { content: "\e9ac"; }
 
+        &--time:before { content: "\e94e"; }
+
     } // .ct-tool
 
 } // .ct-widget
